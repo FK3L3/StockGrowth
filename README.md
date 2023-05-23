@@ -1,6 +1,6 @@
 # STOCK Data Fetcher
 
-This is a Python script that retrieves real-time data for Amazon (symbol: AMZN) using the Alpha Vantage API. It fetches information such as the current stock price and trading volume.
+This is a Python script that retrieves real-time data for AnyStock (symbol: #@$%) using the Alpha Vantage API. It fetches information such as the current stock price and trading volume.
 
 ## Prerequisites
 
@@ -44,6 +44,9 @@ The script will retrieve data for Amazon from the Alpha Vantage API and display 
 - Volume: The trading volume.
 
 ## Troubleshooting
+```shell
+hello world
+```
 
 - If you encounter any errors while making the API request, check your internet connection and make sure the Alpha Vantage API is accessible.
 - If you see an error message stating "Global Quote not found in response," it means that the API response did not contain the expected data. Double-check the symbol and API key used.
