@@ -14,14 +14,14 @@ Before running this script, make sure you have the following:
 1. Clone the repository or download the script file directly.
 
 ```shell
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/FK3L3/StockGrowth.git
 ```
 
 2. Install the required dependencies. In this case, there are no external dependencies to install.
 
 ## Usage
 
-1. Open the script file `fetch_stock_data.py` in a text editor.
+1. Open the script file `stock_growth.py` in a text editor.
 
 2. Replace `'<your_api_key>'` with your Alpha Vantage API key. You can find the line of code near the end of the script:
  
@@ -32,7 +32,7 @@ git clone https://github.com/your-username/your-repository.git
 5. Run the script using the following command:
 
 ```shell
-python fetch_amazon_data.py
+python stock_growth.py
 ```
 
 ## Output
