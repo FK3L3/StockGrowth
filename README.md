@@ -1,4 +1,4 @@
-# Amazon Data Fetcher
+# STOCK Data Fetcher
 
 This is a Python script that retrieves real-time data for Amazon (symbol: AMZN) using the Alpha Vantage API. It fetches information such as the current stock price and trading volume.
 
