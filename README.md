@@ -21,7 +21,7 @@ git clone https://github.com/your-username/your-repository.git
 
 ## Usage
 
-1. Open the script file `fetch_amazon_data.py` in a text editor.
+1. Open the script file `fetch_stock_data.py` in a text editor.
 
 2. Replace `'<your_api_key>'` with your Alpha Vantage API key. You can find the line of code near the end of the script:
  
